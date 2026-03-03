@@ -1,6 +1,7 @@
 """
 Collaborative Weather Analysis
 ATOC 4815/5815 - Git Collaboration Exercise
+Edited by Skai Glasser
 
 Instructions:
   - Partner A: Complete the functions in SECTION A (temperature analysis)
